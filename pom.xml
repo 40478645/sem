@@ -11,6 +11,4 @@
         <maven.complier.source>1.8</maven.complier.source>
         <maven.complier.target>1.8</maven.complier.target>
     </properties>
-
-
 </project>
